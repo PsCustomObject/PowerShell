@@ -1,4 +1,6 @@
-![ScreenShot](Message Tr@cker.png)  # Project HeloCheck Message Tr@cker
+![ScreenShot](Message Tr@cker.png)  
+
+#Project HeloCheck Message Tr@cker
 
 GUI Interface for Exchange 2013/2016 message tracking functions allowing export of results to CSV
 
