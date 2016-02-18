@@ -19,7 +19,7 @@ Run It!
 
 ## History
 
-Version 1.0 - Initial Release
+18.02.2016 - Version 1.0 - Initial Release
 
 ## License
 
